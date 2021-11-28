@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+}
+.mybutton{
+	height: 100px;
+	width: 200px;
+	background-color: #257;
+	margin-top: 50px;
+	margin-left: 100px;
+	font-size: 30px;
+	color: #fff;
+	font-weight: bold;
+	box-shadow: 3px 3px 3px 3px #885900;
+	border-radius: 10px;
+}
+.box{
+	height: min-content;
+	width:100%;
+	background-color: #eee;
+	margin-top: 20px;
+	color: #978;
+	font-size: 30px;
+	text-align: center;
+	padding-top: 10px;
+}
+table{
+
+	border-collapse: collapse;
+	margin: auto;
+}
+ table tr,table td{
+ 	height: 20px;
+ 	width: 20px;
+ 	margin-top: 50px;
+	border: 3px solid #999;
+    padding: 10px;
+ }
+	
+
+
